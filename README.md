@@ -1,4 +1,4 @@
-# Mahjong Gospel / 麻将福音
+# Chengdu Mahjong Gospel / 成麻福音
 
 > Gospel stories retold in Sichuan dialect, with hotpot, mahjong, and a Three of Bamboos.  
 > 福音故事用四川话重新摆一哈，有火锅，有麻将，还有一张三条。
