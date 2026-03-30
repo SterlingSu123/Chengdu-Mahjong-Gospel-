@@ -34,6 +34,10 @@ This is not a translation. It’s a retelling — in a language that tastes like
 
 这不是翻译，是重新摆一哈。用红油味的语言，麻将声的节奏，深夜火锅店的气息。
 
+The liturgy was imported. The bricks were imported. But the table is ours. So I sat down and dealt the tiles.
+
+礼拜仪式是进口的，砖头是进口的，但桌子是自家的。所以我坐下来，开始摸牌。
+
 ---
 
 ## License / 许可证
